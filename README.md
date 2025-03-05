@@ -1,0 +1,1 @@
+A modern, dynamic newsletter system built with React.js for the frontend and MySQL for efficient database management. This project was developed collaboratively by a team of three interns to streamline newsletter creation, management, and delivery with an intuitive user interface.
